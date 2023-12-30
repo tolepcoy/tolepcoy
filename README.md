@@ -1,5 +1,5 @@
 # TOLEP COY
-<pre>Tolep Coy Banner Script untuk Termux ;)</pre>
+<pre>Tolep Crot Banner Script untuk Termux ;)</pre>
 
 
 <p float="center">
@@ -39,7 +39,7 @@
 
 
 
-## C R O N I X Tolepcoy© :
+## C R O N I X TolepcoyÂ© :
 <pre>
 Hah apo?
 </pre>
