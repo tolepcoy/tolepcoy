@@ -6,7 +6,7 @@
 ## Categories
  <b>
   • <a href=https://github.com/tolepcoy/tolepcoy/tree/main/image">Tools</a> </br>
-  • <a href="../image">Audio & Visual</a> </br>
+  • <a href="image">Audio & Visual</a> </br>
   • Social </br>
   • Chat </br>
   • Editor </br>
