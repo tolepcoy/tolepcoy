@@ -20,7 +20,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/ig.png" width="40" />@tolepcoy
 <br>
-<i>
+<br>
 • <a href="https://emailtolep.js">tolepcoy@gmail.com</a></br>
 • https://github.com/tolepcoy.git
-</i>
+
