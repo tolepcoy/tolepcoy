@@ -1,6 +1,6 @@
 # Android App
 <p float="center">
-  <img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/msg5780888591-38934.jpg" width="400" height="100" />
+  <img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/tolepcoy.gif" />
 </p>
 
 ## Categories
