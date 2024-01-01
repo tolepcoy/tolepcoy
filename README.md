@@ -5,16 +5,12 @@
 
 ## Categories
  <b>
-  • <a href=Tools">Tools</a><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/hot.gif"> </br>
+  • <a href=Tools">Tools</a> <img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/hot.gif" width="20"> </br>
    
   • <a href="Audio & Visual">Audio & Visual</a> </br>
-  
   • <a href="Social">Social </br>
-  
   • <a href="Chat">Chat </br>
-  
   • <a href="Editor">Editor </br>
-  
   • <a href="Internet">Internet
  </b>
  
