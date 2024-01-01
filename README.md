@@ -5,12 +5,17 @@
 
 ## Categories
  <b>
-  • <a href=https://github.com/tolepcoy/tolepcoy/tree/main/image">Tools</a> </br>
-  • <a href="image">Audio & Visual</a> </br>
-  • Social </br>
-  • Chat </br>
-  • Editor </br>
-  • Internet
+  • <a href=Tools">Tools</a><img src=https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/hot.gif"> </br>
+   
+  • <a href="Audio & Visual">Audio & Visual</a> </br>
+  
+  • <a href="Social">Social </br>
+  
+  • <a href="Chat">Chat </br>
+  
+  • <a href="Editor">Editor </br>
+  
+  • <a href="Internet">Internet
  </b>
  
 ## Contact
