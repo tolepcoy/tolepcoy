@@ -1,4 +1,4 @@
-<table border="1">
+<table border="0">
 <tr>
             <td colspan="2"></td>
 </tr>
@@ -117,7 +117,7 @@
 
 </br>
 
-<table border="1">
+<table border="0">
 <tr>
             <td colspan="8"></td>
 </tr>
@@ -125,22 +125,22 @@
             <td align="center" colspan="8"><h3>Contact Me</h3></td>
 </tr>
 <tr>
-            <td colspan="8s"></td>
+            <td colspan="8"></td>
 </tr>
-<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/wa.png" width="40" /><a href="https://wa.me/6289530007577"></td>
+<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/wa.png" width="" /><a href="https://wa.me/6289530007577"></td>
 
-<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/fb.png" width="40" /><a href="https://facebook.com/tolepcoymalmsteen"></td>
+<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/fb.png" width="" /><a href="https://facebook.com/tolepcoymalmsteen"></td>
 
-<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/ig.png" width="40" /><a href="https://instagram.com/tolepcoy"></td>
+<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/ig.png" width="" /><a href="https://instagram.com/tolepcoy"></td>
 
-<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/gm.png" width="40" /><a href="https://gmail.com/account"></td>
+<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/gm.png" width="" /><a href="https://gmail.com/account"></td>
 
-<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/xda.png" width="40" /><a href="https://xdaforum.com/tolepcoy"></td>
+<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/xda.png" width="" /><a href="https://xdaforum.com/tolepcoy"></td>
 
-<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/kk.png" width="40" /><a href="https://kaskus.co.id/tolepcoy"></td>
+<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/kk.png" width="" /><a href="https://kaskus.co.id/tolepcoy"></td>
 
-<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/yt.png" width="40" /><a href="https://youtube.com/tolepcoy"></td>
+<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/yt.png" width="" /><a href="https://youtube.com/tolepcoy"></td>
 
-<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/twit.png" width="40" /><a href="https://twitter.com/tolepcoy"></td>
+<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/twit.png" width="" /><a href="https://twitter.com/tolepcoy"></td>
 </tr>
 </table>
