@@ -13,13 +13,13 @@
 <td>Crot Xplorer</td>
 </tr>
 <tr>
-<td>Tolep Xplorer</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/TolepXplorer.apk">Tolep Xplorer</a></td>
 </tr>
 <tr>
 <td>MT Manager</td>
 </tr>
 <tr>
-<td>Z-Archiver</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/Z-Archiver.apk">Z-Archiver</a></td>
 </tr>
 <tr>
             <td colspan="2"></td>
@@ -56,7 +56,7 @@
 <td>Lucky Patcher</td>
 </tr>
 <tr>
-<td>EXA System App Remover</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/EXASystemAppRemover.apk">EXA System App Remover</a></td>
 </tr>
 <tr>
             <td colspan="2"></td>
@@ -65,10 +65,10 @@
 <td>Photo Compressor</td>
 </tr>
 <tr>
-<td>Picsay Pro</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/Picsay Pro.apk">Picsay Pro</a></td>
 </tr>
 <tr>
-<td>Photo Resizer [Force Bulk]</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/PhotoResizerHD.apk">Photo Resizer HD [Force Bulk]</a></td>
 </tr>
 <tr>
 <td>MX Player</td>
