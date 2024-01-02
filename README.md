@@ -127,9 +127,9 @@
 <tr>
             <td colspan="8"></td>
 </tr>
-<td><a href="https://wa.me/6289530007577"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/wa.png" width="51" /></td>
+<td><a href="https://wa.me/6289530007577" target="_blank"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/wa.png" width="51" /></td>
 
-<td><a href="https://facebook.com/tolepcoymalmsteen"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/fb.png" width="51" /></td>
+<td><a href="https://facebook.com/tolepcoymalmsteen" target="_blank"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/fb.png" width="51" /></td>
 
 <td><a href="https://instagram.com/tolepcoy"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/ig.png" width="51" /></td>
 
