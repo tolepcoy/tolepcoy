@@ -10,13 +10,13 @@
 </tr>
 <tr>
             <td rowspan="4">File Manager</td>
-<td>Crot Xplorer</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/CrotXplorer.apk">Crot Xplorer</a></td>
 </tr>
 <tr>
 <td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/TolepXplorer.apk">Tolep Xplorer</a></td>
 </tr>
 <tr>
-<td>MT Manager</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/MTManager.apk">MT Manager</a></td>
 </tr>
 <tr>
 <td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/Z-Archiver.apk">Z-Archiver</a></td>
@@ -26,34 +26,34 @@
 </tr>
 <tr>
             <td rowspan="11">Tools</td>
-<td>App Cloner</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/AppCloner.apk">App Cloner</a></td>
 </tr>
 <tr>
-<td>Quick Edit+</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/QuickEdit+.apk">Quick Edit+</a></td>
 </tr>
 <tr>
-<td>Termux</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/Termux.apk">Termux</a></td>
 </tr>
 <tr>
-<td>Touchpad For Big Phone</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/TouchpadForBigPhone&Tab.apk">Touchpad For Big Phone & Tab</a></td>
 </tr>
 <tr>
-<td>Magisk</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/Magisk.apk">Magisk</a></td>
 </tr>
 <tr>
-<td>Dark Tunnel</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/DarkTunnel.apk">Dark Tunnel</a></td>
 </tr>
 <tr>
-<td>CPU-Z</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/CPU-Z.apk">CPU-Z</a></td>
 </tr>
 <tr>
-<td>ShareMe</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/ShareMe.apk">ShareMe</a></td>
 </tr>
 <tr>
-<td>Fake GPS</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/FakeGPS.apk">Fake GPS</a></td>
 </tr>
 <tr>
-<td>Lucky Patcher</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/LuckyPatcher.apk">Lucky Patcher</a></td>
 </tr>
 <tr>
 <td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/EXASystemAppRemover.apk">EXA System App Remover</a></td>
@@ -62,55 +62,55 @@
             <td colspan="2"></td>
 <tr>
             <td rowspan="10">Sound & Visual</td>
-<td>Photo Compressor</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/PhotoCompressor.apk">Photo Compressor</a></td>
 </tr>
 <tr>
 <td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/Picsay Pro.apk">Picsay Pro</a></td>
 </tr>
 <tr>
-<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/PhotoResizerHD.apk">Photo Resizer HD<br>[Force Bulk]</a></td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/PhotoResizerHD.apk">Photo Resizer HD [Force Bulk]</a></td>
 </tr>
 <tr>
-<td>MX Player</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/MXPlayer.apk">MX Player</a></td>
 </tr>
 <tr>
-<td>Kine Master</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/KineMaster.apk">Kine Master</a></td>
 </tr>
 <tr>
-<td>GIF Shop</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/GIFShop.apk">GIF Shop</a></td>
 </tr>
 <tr>
-<td>Tolep Mp3</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/TolepMp3.apk">Tolep Mp3</a></td>
 </tr>
 <tr>
-<td>Wave Editor</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/WaveEditor.apk">Wave Editor</a></td>
 </tr>
 <tr>
-<td>Caustic 3</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/Caustic3.apk">Caustic 3</a></td>
 </tr>
 <tr>
-<td>FL Studio</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/FLStudio.apk">FL Studio</a></td>
 </tr>
 <tr>
             <td colspan="2"></td>
 <tr>
             <td rowspan="2">Social & Chat</td>
-<td>Michat Lite Old</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/MichatLite.apk">Michat Lite Old</a></td>
 </tr>
 <tr>
-<td>HOT 51</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/HOT51.apk">HOT 51</a></td>
 </tr>
 <tr>
             <td colspan="2"></td>
 <tr>
             <td rowspan="1">Browser</td>
-<td>Free Adblock</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/FreeAdblocker.apk">Free Adblocker</a></td>
 </tr>
 <tr>
             <td colspan="2"></td>
 <tr>
             <td rowspan="1">Daily Use</td>
-<td>Maxim</td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/Maxim.apk">Maxim</a></td>
 </tr>
 
 </table>
@@ -144,3 +144,4 @@
 <td><a href="https://twitter.com/tolepcoy" target="_blank"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/twit.png" width="51" /></td>
 </tr>
 </table>
+
