@@ -127,20 +127,20 @@
 <tr>
             <td colspan="8"></td>
 </tr>
-<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/wa.png" width="51" /><a href="https://wa.me/6289530007577"></td>
+<td><a href="https://wa.me/6289530007577"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/wa.png" width="51" /></td>
 
-<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/fb.png" width="51" /><a href="https://facebook.com/tolepcoymalmsteen"></td>
+<td><a href="https://facebook.com/tolepcoymalmsteen"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/fb.png" width="51" /></td>
 
-<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/ig.png" width="51" /><a href="https://instagram.com/tolepcoy"></td>
+<td><a href="https://instagram.com/tolepcoy"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/ig.png" width="51" /></td>
 
-<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/gm.png" width="51" /><a href="https://gmail.com/account"></td>
+<td><a href="https://gmail.com/account"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/gm.png" width="51" /></td>
 
-<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/xda.png" width="51" /><a href="https://xdaforum.com/tolepcoy"></td>
+<td><a href="https://xdaforum.com/tolepcoy"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/xda.png" width="51" /></td>
 
-<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/kk.png" width="51" /><a href="https://kaskus.co.id/tolepcoy"></td>
+<td><a href="https://kaskus.co.id/tolepcoy"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/kk.png" width="51" /></td>
 
-<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/yt.png" width="51" /><a href="https://youtube.com/tolepcoy"></td>
+<td><a href="https://youtube.com/tolepcoy"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/yt.png" width="51" /></td>
 
-<td><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/twit.png" width="51" /><a href="https://twitter.com/tolepcoy"></td>
+<td><a href="https://twitter.com/tolepcoy"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/twit.png" width="51" /></td>
 </tr>
 </table>
