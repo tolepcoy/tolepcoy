@@ -109,7 +109,7 @@
 <tr>
             <td colspan="2"></td>
 <tr>
-            <td rowspan="1u">Daily Use</td>
+            <td rowspan="1">Daily Use</td>
 <td>Maxim</td>
 </tr>
 
@@ -131,16 +131,16 @@
 
 <td><a href="https://facebook.com/tolepcoymalmsteen" target="_blank"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/fb.png" width="51" /></td>
 
-<td><a href="https://instagram.com/tolepcoy"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/ig.png" width="51" /></td>
+<td><a href="https://instagram.com/tolepcoy" target="_blank"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/ig.png" width="51" /></td>
 
-<td><a href="https://gmail.com/account"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/gm.png" width="51" /></td>
+<td><a href="https://gmail.com/account" target="_blank"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/gm.png" width="51" /></td>
 
-<td><a href="https://xdaforum.com/tolepcoy"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/xda.png" width="51" /></td>
+<td><a href="https://xdaforum.com/tolepcoy" target="_blank"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/xda.png" width="51" /></td>
 
-<td><a href="https://kaskus.co.id/tolepcoy"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/kk.png" width="51" /></td>
+<td><a href="https://kaskus.co.id/tolepcoy" target="_blank"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/kk.png" width="51" /></td>
 
-<td><a href="https://youtube.com/tolepcoy"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/yt.png" width="51" /></td>
+<td><a href="https://youtube.com/tolepcoy" target="_blank"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/yt.png" width="51" /></td>
 
-<td><a href="https://twitter.com/tolepcoy"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/twit.png" width="51" /></td>
+<td><a href="https://twitter.com/tolepcoy" target="_blank"><img src="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/image/twit.png" width="51" /></td>
 </tr>
 </table>
