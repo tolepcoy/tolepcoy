@@ -68,7 +68,7 @@
 <td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/Picsay Pro.apk">Picsay Pro</a></td>
 </tr>
 <tr>
-<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/PhotoResizerHD.apk">Photo Resizer HD [Force Bulk]</a></td>
+<td><a href="https://raw.githubusercontent.com/tolepcoy/tolepcoy/main/App/PhotoResizerHD.apk">Photo Resizer HD<br>[Force Bulk]</a></td>
 </tr>
 <tr>
 <td>MX Player</td>
