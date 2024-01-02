@@ -1,4 +1,4 @@
-<table border="0">
+<table border="1">
 <tr>
             <td colspan="2"></td>
 </tr>
@@ -74,22 +74,22 @@
 <td>MX Player</td>
 </tr>
 <tr>
-<td>Kine Master></td>
+<td>Kine Master</td>
 </tr>
 <tr>
-<td>GIF Shop></td>
+<td>GIF Shop</td>
 </tr>
 <tr>
-<td>Tolep Mp3></td>
+<td>Tolep Mp3</td>
 </tr>
 <tr>
-<td>Wave Editor></td>
+<td>Wave Editor</td>
 </tr>
 <tr>
-<td>Caustic 3></td>
+<td>Caustic 3</td>
 </tr>
 <tr>
-<td>FL Studio></td>
+<td>FL Studio</td>
 </tr>
 <tr>
             <td colspan="2"></td>
@@ -117,7 +117,7 @@
 
 </br>
 
-<table border="0">
+<table border="1">
 <tr>
             <td colspan="8"></td>
 </tr>
