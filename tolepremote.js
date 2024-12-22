@@ -1,6 +1,6 @@
-/*! BLACK OUT */
+/*! BLACK OUT 
 const blackoutDiv = document.createElement("div");
-blackoutDiv.id = "blackout"; // Menambahkan ID pada div
+blackoutDiv.id = "blackout";
 Object.assign(blackoutDiv.style, {
   width: "100%",
   height: "100%",
@@ -25,4 +25,4 @@ const body1nya = document.querySelector('body1');
 if (body1nya) {
   body1nya.style.display = 'none';
 }
-/* end blackout */
+ end blackout */
