@@ -1,0 +1,183 @@
+/*! -- User Biasa (Normal) -- */
+.userbiasaNama {
+font-weight: bold;
+color: #fdfdfd;
+font-style: italic;
+}
+
+/* -- Administrator -- */
+#adminNama {
+color: gold;
+font-weight: 500;
+font-size: 14px;
+text-shadow: 0 2px 2px black;
+font-style: normal;
+font-family: 'Tolep Cinderella';
+letter-spacing: 2px;
+text-align: center;
+}
+
+#adminStatus {
+color: #eec600;
+font-size: 10px;
+font-weight: normal;
+vertical-align: 45%;
+font-family: 'Arial';
+text-shadow: none;
+font-style: italic;
+letter-spacing: 1px;
+text-transform: uppercase;
+}
+
+#adminText {
+color: #ffedaa;
+font-family: Arial;
+}
+
+.adminIcon {
+width: 12px;
+height: 12px;
+vertical-align: 10%;
+border-radius:50%
+}
+
+/*! -- Moderator -- */
+#momodNama {
+color: #ff9999;
+font-weight: 500;
+font-size: 13px;
+text-shadow: 0 2px 2px black;
+font-style: normal;
+font-family: 'Tolep Caviar';
+}
+
+#momodStatus {
+font-size: 10px;
+font-weight:normal;
+vertical-align: 45%;
+color: #ff8888;
+font-family: 'Arial';
+text-shadow: none;
+}
+
+#momodText {
+color: #fff;
+font-family: Arial;
+}
+
+.momodIcon {
+width: 12px;
+height: 12px;
+vertical-align: 10%;
+border-radius: 50%
+}
+
+/*! -- A I -- */
+#aiNama {
+color: #bbb;
+font-size: 13px;
+float: right;
+margin-right: 5%;
+font-style: normal;
+text-transform: uppercase;
+font-weight: bold;
+}
+
+#aiStatus {
+font-size: 9px;
+font-weight: normal;
+vertical-align: 35%;
+color: #bbb;
+font-family: 'Arial';
+text-shadow: none;
+}
+
+#aiText {
+color: #ccc;
+}
+
+.aiIcon {
+opacity: 0.5
+width: 6px;
+height: 6px;
+vertical-align: 20%;
+border-radius:50%;
+}
+
+/*! -- User Request -- */
+.userrequestNama {
+color: #ef0;
+font-size: 12px;
+}
+
+.userrequestStatus {
+font-size: 10px;
+font-weight: normal;
+vertical-align: 50%;
+color: #ccc;
+font-style: italic;
+font-family: 'Arial';
+text-shadow: none;
+}
+
+.userrequestText {
+color: white;
+}
+
+.userrequestIcon {
+width: 14px;
+height: 14px;
+vertical-align: middle;
+border-radius:50%;
+}
+
+/*! -- Member -- */
+.memberNama {
+font-weight: bold;
+font-size: 13px;
+font-style: normal;
+}
+
+.memberStatus {
+font-size: 10px;
+font-weight: normal;
+vertical-align: 50%;
+color: #0d0;
+font-style: italic;
+font-family: 'Arial';
+text-shadow: none;
+}
+
+.memberText {
+font-family: "Tolep Default";
+}
+
+.memberIcon {
+width: 16px;
+height: 16px;
+vertical-align: middle;
+border-radius: 50%;
+}
+
+/*! ####### ALL MEMBER ###### */
+/*! --------------- TOLEP COY -- */
+#member-tolepcoy {
+color: #0f0;
+}
+
+/*! --------------- ROYEN -- */
+#member-royen {
+color: #f00;
+}
+
+/*! --------------- LIS -- */
+#member-lis {
+color: #0ff;
+}
+
+/*! --------------- KKKKIN -- */
+#member-kkiin {
+color: #f0f;
+}
+
+/*! ######################### */
