@@ -43,7 +43,7 @@ border-radius:50%
 
 /*! -- Moderator -- */
 #momodNama {
-color: #ff9999;
+color: #ff5555;
 font-weight: 500;
 font-size: 13px;
 text-shadow: 0 2px 2px black;
@@ -53,9 +53,9 @@ font-family: 'Tolep Caviar';
 
 #momodStatus {
 font-size: 10px;
-font-weight:normal;
+font-weight: normal;
 vertical-align: 45%;
-color: #ff8888;
+color: #ff5555;
 font-family: 'Arial';
 text-shadow: none;
 }
@@ -107,7 +107,7 @@ border-radius:50%;
 /*! -- User Request -- */
 .userrequestNama {
 color: #ef0;
-font-size: 12px;
+font-size: 14px;
 }
 
 .userrequestStatus {
@@ -134,8 +134,9 @@ border-radius:50%;
 /*! -- Member -- */
 .memberNama {
 font-weight: bold;
-font-size: 13px;
+font-size: 14px;
 font-style: normal;
+color: #0f0;
 }
 
 .memberStatus {
@@ -162,22 +163,27 @@ border-radius: 50%;
 /*! ####### ALL MEMBER ###### */
 /*! --------------- TOLEP COY -- */
 #member-tolepcoy {
-color: #0f0;
+color: ;
 }
 
-/*! --------------- ROYEN -- */
-#member-royen {
-color: #f00;
+/*! --------------- TRI -- */
+#member-tri {
+color: ;
 }
 
 /*! --------------- LIS -- */
 #member-lis {
-color: #0ff;
+color: ;
 }
 
 /*! --------------- KKKKIN -- */
 #member-kkiin {
-color: #f0f;
+color: ;
+}
+
+/*! --------------- KUYAPRO -- */
+#member-kuyapro {
+color: ;
 }
 
 /*! ######################### */
